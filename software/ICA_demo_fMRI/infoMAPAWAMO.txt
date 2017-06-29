@@ -1,0 +1,10 @@
+The data is provided by the EU sponsored MAPAWAMO project, fMRI scanning monkeys.
+
+The experiment by which the data was collected, present a monkey first with static and then an active visual stimulation in front of the eyes. In between and after the visual stimulations was a resting period of same length. The data consists of 80 sampled scans of volumes, from which this demo holds 2 slices. Each visual stimulation and resting period holds 20 samples.
+
+
+- Use the buttons to the left to calculate the result of various algorithms. The result will present image scans in the left side and corresponding time series in the right side. The red and blue colouring of the images correspond respectively to the 5% of the pixels with the highest or lowest intensity. The green line in the time series shows the activation period of visual stimulation.
+
+- Use the [Slice->] and [Slice <-] to change the slice.
+
+- Use the [Source ->] and [Source <-] to change the number of components to calculate.

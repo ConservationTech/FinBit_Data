@@ -1,0 +1,10 @@
+The data is provided by Hvidovre Universitets Hospital, Denmark and consists of fMRI scannings of humans.
+
+The experiment by which the data was collected, present a human subject with a flickering checkerboard in front of the eyes. This was done in intervals, where the checkerboard was turned off in between. The data consists of 300 sampled scans of a slice (4442 pixels) going through the visual cortex. Sample interval is 333 msek and each activation period holds 50 samples.
+
+Relative to the hemodynamic response the sampling time is fast, thus a delay can be seen between the activation and the signal.
+
+
+- Use the buttons to the left to calculate the result of various algorithms. The result will present image scans in the left side and corresponding time series in the right side. The red and blue colouring of the images correspond respectively to the 2.5% of the pixels with the highest or lowest intensity. The green line in the time series shows the true activation period of the checkerboard.
+
+- Use the [Source ->] and [Source <-] to change the number of components to calculate.
